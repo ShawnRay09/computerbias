@@ -1,9 +1,14 @@
 ---
 toc: true
-layout: post
+layout: base
 title: Computing Bias Lesson
 description: By Shawn Ray, Jonah Luo, Tarun Rayavarapu, Arya Savlani
 ---
+<style>
+header {
+  display: none;
+}
+</style>
 
 # Computing Bias Lesson 🧠
 
