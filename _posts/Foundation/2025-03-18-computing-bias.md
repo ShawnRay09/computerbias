@@ -133,6 +133,10 @@ The chatbot learns bias over time from user interactions, rather than being bias
 
 ---
 
+## Popcorn Hack #1
+
+
+
 ## Real-World Examples of Computing Bias 🌍
 
 ### **Amazon's AI Hiring Tool**
@@ -192,6 +196,8 @@ The chatbot learns bias over time from user interactions, rather than being bias
 (Insert Bias Mitigations here)
 >>>>>>> Stashed changes
 
+## Popcorn Hack #2
+
 | **MCQ Topic** | **Connection to Computing Bias** |
 |-----------|---------------------------------|
 | **2.3: Extracting Information from Data** | Bias can emerge when datasets are skewed or incomplete, leading to biased AI predictions and decisions. |
@@ -199,12 +205,3 @@ The chatbot learns bias over time from user interactions, rather than being bias
 | **3.17: Algorithmic Efficiency** | Some efficient algorithms may prioritize speed over fairness, reinforcing biases in search engines or recommendation systems. |
 | **5.1: Beneficial and Harmful Effects** | Biased algorithms can offer personalized recommendations (benefit) but may also create filter bubbles and reinforce stereotypes (harm). |
 | **5.2: Digital Divide** | Bias in computing can worsen accessibility gaps, such as voice recognition software struggling with non-native accents. |
-
-  <!-- Utterances comment script -->
-  <script src="https://utteranc.es/client.js"
-          repo="ShawnRay09/computerbias"
-          issue-term="url"
-          theme="github-light"
-          crossorigin="anonymous"
-          async>
-  </script>
