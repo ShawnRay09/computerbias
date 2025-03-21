@@ -314,6 +314,20 @@ Think of a system or tool that you use every day—this could be a website, app,
 ---
 
 
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://shawnray09.github.io/computerbias/game/">
+        <button style="background-color: #4CAF50; color: white; border: none; padding: 20px 40px; font-size: 24px; cursor: pointer; border-radius: 10px; transition: background-color 0.3s ease;">
+            Game
+        </button>
+    </a>
+</div>
+
+<style>
+    button:hover {
+        background-color: #45a049;
+    }
+</style>
+
 
 
 
