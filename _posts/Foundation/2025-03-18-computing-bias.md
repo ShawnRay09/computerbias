@@ -22,6 +22,11 @@ Computing bias occurs when computer systems systematically and unfairly discrimi
 
 > "We can say that a computer system is biased if it both unfairly and systematically discriminates against one group in favor of another." – *Nissenbaum et al.* ([Cornell Paper](https://nissenbaum.tech.cornell.edu/papers/Discerning%20Bias%20in%20Computer%20Systems.pdf))
 
+
+<img src="{{site.baseurl}}/images/compbi.png" height="250" wdith="375">
+
+
+
 <h2>Doctor or Nurse Drawings 🎨</h2> 
 
 <button id="roleButton">Get Role</button>
@@ -65,6 +70,10 @@ Computing bias occurs when computer systems systematically and unfairly discrimi
      - Hiring algorithms favoring men over women.
      - Facial recognition systems performing poorly on non-white faces.
 
+<img src="{{site.baseurl}}/images/faca.png" height="250">
+
+---
+
 2. **Technical Bias**
    - Stems from design, implementation, or structural limitations in technology.
    - Even systems built with good intentions may introduce bias through their function.
@@ -72,12 +81,19 @@ Computing bias occurs when computer systems systematically and unfairly discrimi
      - Google Translate assigning gendered pronouns based on stereotypes.
      - Default settings not representing all user demographics.
 
+<img src="{{site.baseurl}}/images/gender.png" height="250" width="375">
+
+---
+
 3. **Emergent Social Bias**
    - Develops over time as a system interacts with users or adapts to real-world data.
    - AI models may evolve in a biased manner based on user interactions.
    - **Examples:**
      - AI chatbots learning harmful language from users.
      - Search engines amplifying biased content over time.
+
+
+<img src="{{site.baseurl}}/images/ai.png" height="250" width="375">
 
 ---
 
@@ -141,8 +157,12 @@ The chatbot learns bias over time from user interactions, rather than being bias
 - **Impact:** AI can absorb and amplify human biases without proper safeguards.  
 🔗 [Read More](https://fortune.com/longform/ai-bias-problem)
 
+<img src="{{site.baseurl}}/images/tay.png" height="250" width="375">
+
+
 ---
 
+<<<<<<< Updated upstream
 ## How to Mitigate these Biases?
 
 <a>
@@ -167,6 +187,10 @@ The chatbot learns bias over time from user interactions, rather than being bias
 - **Algorithmic Accountability**: Adapt algorithms to evolving social norms and continuously adjust based on feedback.
 
 ---
+=======
+
+(Insert Bias Mitigations here)
+>>>>>>> Stashed changes
 
 | **MCQ Topic** | **Connection to Computing Bias** |
 |-----------|---------------------------------|
