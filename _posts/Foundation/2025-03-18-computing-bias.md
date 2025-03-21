@@ -25,12 +25,25 @@ Computing bias occurs when computer systems systematically and unfairly discrimi
 
 <img src="{{site.baseurl}}/images/compbi.png" height="250" wdith="375">
 
+<a>
+</a>
+
+---
+
+<a>
+</a>
+
+<h3>Doctor or Nurse Drawings 🎨</h3> 
+
+<a>
+</a>
 
 
-<h2>Doctor or Nurse Drawings 🎨</h2> 
 
 <button id="roleButton">Get Role</button>
 <p id="result"></p>
+
+---
 
 <style>
     button {
@@ -61,9 +74,18 @@ Computing bias occurs when computer systems systematically and unfairly discrimi
     });
 </script>
 
-### **Types of Bias in Computing** 🔍
+## **Types of Bias in Computing** 🔍
 
-1. **Pre-existing Social Bias**
+<a>
+</a>
+
+
+<a>
+</a>
+
+
+ **Pre-existing Social Bias**
+
    - Originates from societal norms, stereotypes, or historical inequalities.
    - Embedded into technology due to biased data, biased creators, or societal influence.
    - **Examples:**
@@ -80,7 +102,8 @@ Computing bias occurs when computer systems systematically and unfairly discrimi
 <a>
 </a>
 
-2. **Technical Bias**
+ **Technical Bias**
+
    - Stems from design, implementation, or structural limitations in technology.
    - Even systems built with good intentions may introduce bias through their function.
    - **Examples:**
@@ -91,7 +114,8 @@ Computing bias occurs when computer systems systematically and unfairly discrimi
 
 ---
 
-3. **Emergent Social Bias**
+ **Emergent Social Bias**
+
    - Develops over time as a system interacts with users or adapts to real-world data.
    - AI models may evolve in a biased manner based on user interactions.
    - **Examples:**
