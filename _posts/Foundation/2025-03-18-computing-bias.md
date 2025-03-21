@@ -143,7 +143,30 @@ The chatbot learns bias over time from user interactions, rather than being bias
 
 ---
 
-(Insert Bias Mitigations here)
+## How to Mitigate these Biases?
+
+<a>
+</a>
+
+### Pre-existing Social Biases
+
+- **Bias Awareness Training**: Educate developers to recognize and address social biases in design and data collection.
+- **Inclusive Design**: Involve diverse perspectives in algorithm design to reflect multiple viewpoints.
+- **Bias Mitigation in Data Collection**: Regularly audit and balance data to avoid harmful stereotypes.
+
+### Technical Bias
+
+- **Transparent Algorithms**: Ensure algorithms are explainable and understandable to identify bias.
+- **Bias Testing and Auditing**: Continuously test for fairness across demographics.
+- **Improved Evaluation Metrics**: Use fairness-aware metrics to evaluate models and prevent group disadvantages.
+
+### Emergent Social Bias
+
+- **Human Oversight and Feedback Loops**: Implement real-time monitoring and feedback from diverse users to correct emergent biases.
+- **User Moderation and Controls**: Enable users to flag harmful content, reducing bias amplification.
+- **Algorithmic Accountability**: Adapt algorithms to evolving social norms and continuously adjust based on feedback.
+
+---
 
 | **MCQ Topic** | **Connection to Computing Bias** |
 |-----------|---------------------------------|
