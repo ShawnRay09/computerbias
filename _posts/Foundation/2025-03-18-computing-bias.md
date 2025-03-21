@@ -258,13 +258,6 @@ Describe the biased system, explain what type of bias it represents (**Pre-exist
 - **Algorithmic Accountability**: Adapt algorithms to evolving social norms and continuously adjust based on feedback.
 
 ---
-=======
-
-(Insert Bias Mitigations here)
->>>>>>> Stashed changes
-
-
----
 
 ### **Popcorn Hack #2:**  
 
