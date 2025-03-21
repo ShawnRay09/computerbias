@@ -133,7 +133,21 @@ The chatbot learns bias over time from user interactions, rather than being bias
 
 ---
 
-## Popcorn Hack #1
+### **Popcorn Hack #1:**  
+
+Think of a real-world example where a computer system has shown bias. It could be something you've read about, experienced, or imagined.  
+
+#### **Question:**  
+Describe the biased system, explain what type of bias it represents (**Pre-existing Social Bias, Technical Bias, or Emergent Social Bias**), and suggest one way to reduce or fix the bias.  
+
+<details>  
+<summary>Example Response</summary>  
+
+*"A facial recognition system fails to accurately recognize darker-skinned individuals. This is an example of **Technical Bias** because the training data lacked enough diversity. A way to fix this could be to ensure the dataset includes a wide range of skin tones before training the model."*  
+
+</details>
+
+---
 
 
 
@@ -196,7 +210,31 @@ The chatbot learns bias over time from user interactions, rather than being bias
 (Insert Bias Mitigations here)
 >>>>>>> Stashed changes
 
-## Popcorn Hack #2
+
+---
+
+### **Popcorn Hack #2:**  
+
+Bias in computing can lead to unfair outcomes, but there are ways to reduce it  
+
+#### **Question:**  
+In the **financial industry**, an AI system used to approve loan applications unintentionally favors **male applicants** over **female applicants** because it was trained on past loan approval data, which reflected gender biases. This is an example of **Pre-existing Social Bias.**  
+
+Give **two ways** to mitigate this bias and make the system more fair.  
+
+<details>  
+<summary>Example Responses</summary>  
+
+#### **Question:**
+ A music app recommends only popular songs and ignores lesser-known artists.
+
+1️⃣ Add more variety to the recommendations. 
+2️⃣ Let users choose what types of music they want to hear.  
+
+</details>
+
+---
+
 
 | **MCQ Topic** | **Connection to Computing Bias** |
 |-----------|---------------------------------|
@@ -205,3 +243,35 @@ The chatbot learns bias over time from user interactions, rather than being bias
 | **3.17: Algorithmic Efficiency** | Some efficient algorithms may prioritize speed over fairness, reinforcing biases in search engines or recommendation systems. |
 | **5.1: Beneficial and Harmful Effects** | Biased algorithms can offer personalized recommendations (benefit) but may also create filter bubbles and reinforce stereotypes (harm). |
 | **5.2: Digital Divide** | Bias in computing can worsen accessibility gaps, such as voice recognition software struggling with non-native accents. |
+
+
+---
+
+### **Homework Hack: Understanding Bias in Computing**  
+
+#### **Question:**  
+Think of a system or tool that you use every day—this could be a website, app, or device. Can you identify any bias that might exist in the way the system works? 
+
+#### **Task:**  
+1. **Describe the system** you’re thinking of.  
+2. **Identify the bias** in that system and explain why it might be biased. (Is it Pre-existing Social Bias, Technical Bias, or Emergent Social Bias?)  
+3. **Propose one way** to reduce or fix the bias in that system.  
+
+#### **Example:**  
+*"I use a music app that suggests songs based only on what I already listen to. The system is biased because it limits me to a narrow selection of music. This is an example of **Algorithmic Bias**. To fix this, I would add an option for the app to recommend songs from different genres that I don’t normally listen to."*  
+
+---
+
+
+
+
+
+
+<!-- Utterances comment script -->
+  <script src="https://utteranc.es/client.js"
+          repo="ShawnRay09/computerbias"
+          issue-term="url"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+  </script>
