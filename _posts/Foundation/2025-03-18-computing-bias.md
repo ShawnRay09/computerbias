@@ -161,13 +161,13 @@ The chatbot learns bias over time from user interactions, rather than being bias
 
 Think of a real-world example where a computer system has shown bias. It could be something you've read about, experienced, or imagined.  
 
-#### **Question:**  
+#### Question: 
 Describe the biased system, explain what type of bias it represents (**Pre-existing Social Bias, Technical Bias, or Emergent Social Bias**), and suggest one way to reduce or fix the bias.  
 
 <details>  
 <summary>Example Response</summary>  
 
-*"A facial recognition system fails to accurately recognize darker-skinned individuals. This is an example of **Technical Bias** because the training data lacked enough diversity. A way to fix this could be to ensure the dataset includes a wide range of skin tones before training the model."*  
+"A facial recognition system fails to accurately recognize darker-skinned individuals. This is an example of **Technical Bias** because the training data lacked enough diversity. A way to fix this could be to ensure the dataset includes a wide range of skin tones before training the model."*  
 
 </details>
 
@@ -233,39 +233,34 @@ Describe the biased system, explain what type of bias it represents (**Pre-exist
 - **User Moderation and Controls**: Enable users to flag harmful content, reducing bias amplification.
 - **Algorithmic Accountability**: Adapt algorithms to evolving social norms and continuously adjust based on feedback.
 
-<a>
-</a>
+---
+=======
+
+(Insert Bias Mitigations here)
+>>>>>>> Stashed changes
+
 
 ---
 
-<a>
-</a>
-
 ### **Popcorn Hack #2:**  
-
-<a>
-</a>
 
 Bias in computing can lead to unfair outcomes, but there are ways to reduce it  
 
 #### **Question:**  
-In the **financial industry**, an AI system used to approve loan applications unintentionally favors **male applicants** over **female applicants** because it was trained on past loan approval data, which reflected gender biases. This is an example of **Pre-existing Social Bias.**  
+In the **financial industry**, an AI system used to approve loan applications unintentionally favors **male applicants** over **female applicants** because it was trained on past loan approval data, which reflected gender biases. This is an example of **Pre-existing Social Bias.**
 
 Give **two ways** to mitigate this bias and make the system more fair.  
 
 <details>  
-<summary>Example Responses</summary>  
+<summary>Example Responses</summary> 
 
-#### **Question:**
- A music app recommends only popular songs and ignores lesser-known artists.
+A music app recommends only popular songs and ignores lesser-known artists.
 
-1️⃣ Add more variety to the recommendations. 
-2️⃣ Let users choose what types of music they want to hear.  
+- 1️⃣ **Add more variety** to the recommendations.  
+
+- 2️⃣ **Let users choose** what types of music they want to hear.
 
 </details>
-
-<a>
-</a>
 
 ---
 
