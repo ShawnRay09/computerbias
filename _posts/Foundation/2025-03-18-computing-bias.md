@@ -72,7 +72,13 @@ Computing bias occurs when computer systems systematically and unfairly discrimi
 
 <img src="{{site.baseurl}}/images/faca.png" height="250">
 
+<a>
+</a>
+
 ---
+
+<a>
+</a>
 
 2. **Technical Bias**
    - Stems from design, implementation, or structural limitations in technology.
@@ -95,7 +101,13 @@ Computing bias occurs when computer systems systematically and unfairly discrimi
 
 <img src="{{site.baseurl}}/images/ai.png" height="250" width="375">
 
+<a>
+</a>
+
 ---
+
+<a>
+</a>
 
 #### **Question 1:**  ❓
 A company implements an AI hiring system that unintentionally prefers male candidates over female candidates because it was trained on past hiring data from a male-dominated industry. What type of bias is this an example of?  
@@ -113,7 +125,13 @@ Answer: A) Pre-existing Social Bias
 This bias originates from societal inequalities reflected in historical hiring data.  
 </details>  
 
+<a>
+</a>
+
 ---  
+
+<a>
+</a>
 
 #### **Question 2:**  ❓
 An AI-powered chatbot gradually starts using offensive language after interacting with online users who repeatedly expose it to toxic content. What type of bias does this represent?  
@@ -131,7 +149,13 @@ Answer: C) Emergent Social Bias
 The chatbot learns bias over time from user interactions, rather than being biased from the start.  
 </details>
 
+<a>
+</a>
+
 ---
+
+<a>
+</a>
 
 ### **Popcorn Hack #1:**  
 
@@ -147,9 +171,13 @@ Describe the biased system, explain what type of bias it represents (**Pre-exist
 
 </details>
 
+<a>
+</a>
+
 ---
 
-
+<a>
+</a>
 
 ## Real-World Examples of Computing Bias 🌍
 
@@ -177,6 +205,8 @@ Describe the biased system, explain what type of bias it represents (**Pre-exist
 
 <img src="{{site.baseurl}}/images/tay.png" height="250" width="375">
 
+<a>
+</a>
 
 ---
 
@@ -203,12 +233,18 @@ Describe the biased system, explain what type of bias it represents (**Pre-exist
 - **User Moderation and Controls**: Enable users to flag harmful content, reducing bias amplification.
 - **Algorithmic Accountability**: Adapt algorithms to evolving social norms and continuously adjust based on feedback.
 
+<a>
+</a>
+
 ---
 
-
----
+<a>
+</a>
 
 ### **Popcorn Hack #2:**  
+
+<a>
+</a>
 
 Bias in computing can lead to unfair outcomes, but there are ways to reduce it  
 
@@ -228,8 +264,13 @@ Give **two ways** to mitigate this bias and make the system more fair.
 
 </details>
 
+<a>
+</a>
+
 ---
 
+<a>
+</a>
 
 | **MCQ Topic** | **Connection to Computing Bias** |
 |-----------|---------------------------------|
@@ -243,6 +284,9 @@ Give **two ways** to mitigate this bias and make the system more fair.
 ---
 
 ### **Homework Hack: Understanding Bias in Computing**  
+
+<a>
+</a>
 
 #### **Question:**  
 Think of a system or tool that you use every day—this could be a website, app, or device. Can you identify any bias that might exist in the way the system works? 
