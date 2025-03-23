@@ -11,6 +11,9 @@ description: By Shawn Ray, Jonah Luo, Tarun Rayavarapu, Arya Savlani
 
 Computing bias occurs when computer systems systematically and unfairly discriminate against certain groups. Bias in computing can reinforce social inequalities, create unfair advantages, and lead to real-world harm. This lesson explores how bias emerges, real-world examples, and strategies for mitigation.
 
+<strong> <a href="https://forms.gle/dpUaWgu9UKkSnfMe8" target="_blank">Submission Form Here</a> </strong>
+
+
 ---
 
 ## What is Computing Bias? 
@@ -317,11 +320,87 @@ Think of a system or tool that you use every day—this could be a website, app,
     </a>
 </div>
 
+# **🌟 Extra Credit Opportunity 🌟**
+
+### **Objective:**  
+Complete the game to earn **100%** and provide detailed explanations for each bias present in the game. For each bias, explain why it occurs and suggest a solution to eliminate or reduce its impact.
+
+---
+
+### **Task:**
+1. **Play the Game**  
+   Play the provided game and aim to achieve **100% completion**. Make sure to pay attention to the reasons that those biases are present.
+
+2. **Identify the Computing Biases:**  
+   As you play, take note of any of the following computing biases:
+   - **Pre-existing Social Bias:** Biases that are inherited from society, such as racial, gender, or cultural biases, and are reflected in the system or game.
+   - **Technical Bias:** Biases that arise due to limitations in the technical aspects of the system, such as algorithmic or data limitations that result in unequal treatment of certain groups.
+   - **Emergent Social Bias:** Biases that develop during interactions between users or players within the system, such as crowd behavior or group dynamics that lead to unfair or unbalanced outcomes.
+
+3. **Provide Explanations and Solutions:**  
+   For each bias you identify, **explain** why it is a bias and how it impacts our lives. Then, suggest at least one **solution** to address or minimize that bias. Solutions could include:
+   - Altering code
+   - Introducing more diverse backgrounds
+   - Modifying the narrative or decision-making process
+
+### **Example:**
+
+- **Bias: Technical Bias**  
+  **Explanation:** Amazon’s AI system has been found to favor male names and genders over female ones when making recommendations for job positions or skills training. This bias can limit opportunities for women or non-binary people.  
+  **Solution:** Modify the training data to include a balanced and fair representation of genders. Reassess and retrain the AI to ensure that all gender identities have equal opportunity in the recommendation system, with checks in place to catch any skewed patterns.
+
+- **Bias: Pre-existing Social Bias**  
+  **Explanation:** A certain company's AI algorithm recognizes faces more accurately for lighter skin tones, leading to biases in facial recognition systems. This can affect a person's life or interactions, as the system might misidentify or exclude players with darker skin tones.  
+  **Solution:** Improve the AI training data by ensuring it is diverse and representative of various skin tones. Ensure the facial recognition algorithm is tested across a wide range of skin tones and fine-tune it for accuracy across all demographics.
+
+
 <style>
     button:hover {
         background-color: #45a049;
     }
 </style>
+
+---
+
+# Extra Learning Links: Computing Bias  
+
+### 🌐 Websites  
+- [**Harvard: Algorithmic Bias**](https://cyber.harvard.edu/story/2021-01/algorithmic-bias) – An overview of how bias appears in AI systems.  
+- [**Google AI: Fairness in Machine Learning**](https://ai.google/responsibility/fairness/) – Google's research and tools for reducing bias in AI.  
+- [**MIT Technology Review: The Fight Against Bias in Algorithms**](https://www.technologyreview.com/) – Articles on bias in machine learning and AI ethics.  
+- [**AI Now Institute**](https://ainowinstitute.org/) – Research on the social implications of artificial intelligence.  
+
+### 🎥 Videos  
+- [**CrashCourse: Bias in Computing**](https://www.youtube.com/watch?v=E_Cr9xVg3KQ) – A short introduction to bias in algorithms.  
+- [**Coded Bias Documentary**](https://www.netflix.com/title/81328723) – A documentary exploring bias in facial recognition and AI.  
+- [**TED Talk: The Era of Blind Faith in Big Data Must End**](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end) – Cathy O'Neil discusses algorithmic bias and its impact.  
+- [**AI for Good: Tackling Algorithmic Bias**](https://www.youtube.com/watch?v=wW_AzHDbmCM) – Panel discussion on bias and fairness in AI.  
+
+### 📊 Academic References & Real-World Examples  
+
+#### 📄 Definition and Information
+- **Nissenbaum et al.** – Definition of computing bias.  
+- [**"Discerning Bias in Computer Systems" (Cornell Paper)**](https://arxiv.org/abs/2301.00001) – A research paper analyzing different types of bias in computing systems.  
+
+#### 🔍 Real-World Examples  
+- **Amazon's AI Hiring Tool (Pre-existing Social Bias)**  
+  Amazon's AI system penalized resumes with words like “Women’s Chess Club.”  
+  [🔗 Read More](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)  
+
+- **Google Translate Gender Bias (Technical Bias)**  
+  Gender-neutral languages led to gendered assumptions in translation.  
+  [🔗 Read More](https://www.bbc.com/news/technology-47893082)  
+
+- **Microsoft’s AI Chatbot Tay (Emergent Social Bias)**  
+  Tay absorbed and amplified harmful language from Twitter users.  
+  [🔗 Read More](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)  
+
+
+### 🖥️ Interactive Resources  
+- [**Google’s What-If Tool**](https://pair-code.github.io/what-if-tool/) – Experiment with bias in AI models.  
+- [**AI Fairness 360 (IBM)**](https://aif360.mybluemix.net/) – A toolkit for detecting and mitigating bias in AI.  
+- [**MIT Media Lab: Moral Machine**](https://www.moralmachine.net/) – An interactive tool exploring ethical decisions in AI.  
+- [**Algorithmic Justice League: Bias Detection Tools**](https://www.ajlunited.org/) – Resources and interactive tools for identifying bias in algorithms.  
 
 
 
