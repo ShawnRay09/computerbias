@@ -179,6 +179,35 @@ The chatbot learns bias over time from user interactions, rather than being bias
 <a>
 </a>
 
+## **Explicit Data vs. Implicit Data in Computing Bias** 🧩
+
+When analyzing how bias appears in computing, it's important to understand the difference between **explicit data** and **implicit data**—both of which can influence biased outcomes.
+
+### **Explicit Data** 📊
+- Data that is **directly provided** by users or systems.
+- Clearly stated, structured, and intentional.
+- **Examples:**
+  - Age, gender, and location entered in a form.
+  - A user rating a restaurant as 5 stars.
+  - A survey response about preferences.
+
+### **Implicit Data** 🔍
+- Data that is **collected indirectly** based on user behavior or interactions.
+- Often inferred through machine learning algorithms.
+- **Examples:**
+  - Websites you visit frequently.
+  - Time spent on a particular video or article.
+  - The words you use in online searches.
+
+### **How Does This Relate to Bias?** ⚖️  
+Bias can emerge when implicit data is used in ways that reinforce stereotypes or favor certain groups unfairly. Since implicit data is often inferred, it can **exaggerate trends** and introduce bias unintentionally. 
+
+For example:
+- **Hiring AI Bias**: If an AI hiring system learns from past implicit data (e.g., past hiring patterns favoring men), it may unknowingly **downgrade female candidates**, even if their explicit qualifications are the same.
+- **Search Engine Bias**: If a search engine **prioritizes implicit data** (like what users click on the most), it might keep recommending **biased results**, reinforcing stereotypes.
+
+---
+
 ### **Popcorn Hack #1:**  
 
 Think of a real-world example where a computer system has shown bias. It could be something you've read about, experienced, or imagined.  
@@ -289,6 +318,27 @@ A music app recommends only popular songs and ignores lesser-known artists.
 | **3.17: Algorithmic Efficiency** | Some efficient algorithms may prioritize speed over fairness, reinforcing biases in search engines or recommendation systems. |
 | **5.1: Beneficial and Harmful Effects** | Biased algorithms can offer personalized recommendations (benefit) but may also create filter bubbles and reinforce stereotypes (harm). |
 | **5.2: Digital Divide** | Bias in computing can worsen accessibility gaps, such as voice recognition software struggling with non-native accents. |
+
+
+## Questions to Ask About Bias (From CollegeBoard)
+
+### Enhancing or Intentionally Excluding  
+- Does the algorithm favor certain groups over others?  
+- Are specific perspectives or experiences being amplified while others are ignored?  
+- Is the data used to train the model diverse and representative of all relevant groups?  
+- Are accessibility and inclusivity considered in the design?  
+
+### Intentionally Harmful/Hateful  
+- Could this system be used to spread misinformation or hate speech?  
+- Are there safeguards to prevent discrimination or harmful targeting?  
+- Who might be negatively impacted by the decisions of this technology?  
+- Is there a potential for reinforcing harmful stereotypes?  
+
+### Receiving Feedback from a Wide Variety of People  
+- Have people from different backgrounds tested the system?  
+- Are there mechanisms in place to report bias or unintended consequences?  
+- How often is the system updated to address feedback and improve fairness?  
+- Are there specific efforts to include marginalized communities in testing and evaluation?  
 
 
 ---
